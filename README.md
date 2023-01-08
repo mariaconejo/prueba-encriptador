@@ -1,5 +1,5 @@
 # Encriptador de texto - Alura-Oracle Next Education - Challenge 1 - Grupo 4
-## **ESPAÑOL**
+## _*_ESPAÑOL_*_
   ## Descripción
 
   Este proyecto forma parte del programa ONE (Oracle Next Education) y consiste en un sitio web que sirve para encriptar y desencriptar texto. La consigna era crear un sitio web en base a un modelo que nos dieron en cuál el ususario ingresara un texto y pudiera enriptarlo o desencriptarlo ,obteniéndo así un nuevo texto. 
@@ -43,14 +43,14 @@
   ### Celular con texto:
   ![Celular con texto](https://lh3.googleusercontent.com/pw/AL9nZEVcqPKm92EGZGQUzSTm5cl1Xituvl7Zh-HKeCpK3de1c-zfKEvVv6fKRuCkrSVw-ZgzEjruOWJw-CBuJ4-xNMyEpTmvfEQpcbK7ASaDCg5mfcp8R3Cln6KzcYc4K1xAx5z2AGH3hRVCT_NqyHsPttj8=w279-h852-no?authuser=0)
   
-  ## Desencriptando y copiando texto:
+  ### Desencriptando y copiando texto:
   ![Desencripta y copia texto](https://lh3.googleusercontent.com/pw/AL9nZEUb9KyspUz8Ut_txvGUwnLLE9_ChWRbN2vh32Y8PxLcVUnJwNgkxsIEYee04BhCJ9Wb6ckgT4t26ZugwrNXOc3wve3a-0ZsSTw_ruxVJ7TMxz62XH6wh8UcvQzq6dBM0w0eXcv8_adAE3_6yAa0tm8S=w1900-h967-no?authuser=0)
   
-  ## Aviso de texto no válido:
+  ### Aviso de texto no válido:
   ![texto no valido](https://lh3.googleusercontent.com/pw/AL9nZEVSsC6cBjkjsmx_hxfZUkqTQRfczKabdI0Y_PV9q2ZlU7hBDwbk3ZRU7goaPyGaZRnPDfgxbhMXgnca4LE0UFiXRUhbi22DUgzqdQZSi3O_7BrvcDB3EwMiUWSJ2gP-iAI1ilNr4KejsmD7t9J_AvJa=w1888-h973-no?authuser=0)
   
 
-## **English**
+## _*_English_*_
   ## Description
 
   This project is part of the ONE (Oracle Next Education) program and consists of a website that serves to encrypt and decrypt text. The goal was to create a website based on a model that we were given in which the user could enter a text and could encrypt or decrypt it, thus obtaining a new text. 
@@ -93,9 +93,9 @@
   ### SmartPhone with text:
   ![SmartPhone with text](https://lh3.googleusercontent.com/pw/AL9nZEVcqPKm92EGZGQUzSTm5cl1Xituvl7Zh-HKeCpK3de1c-zfKEvVv6fKRuCkrSVw-ZgzEjruOWJw-CBuJ4-xNMyEpTmvfEQpcbK7ASaDCg5mfcp8R3Cln6KzcYc4K1xAx5z2AGH3hRVCT_NqyHsPttj8=w279-h852-no?authuser=0)
   
-  ## Decrypting and copying text:
+  ### Decrypting and copying text:
   ![Decrypting and copying text](https://lh3.googleusercontent.com/pw/AL9nZEUb9KyspUz8Ut_txvGUwnLLE9_ChWRbN2vh32Y8PxLcVUnJwNgkxsIEYee04BhCJ9Wb6ckgT4t26ZugwrNXOc3wve3a-0ZsSTw_ruxVJ7TMxz62XH6wh8UcvQzq6dBM0w0eXcv8_adAE3_6yAa0tm8S=w1900-h967-no?authuser=0)
   
-  ## Invalid text warning:
+  ### Invalid text warning:
   ![Invalid text warning](https://lh3.googleusercontent.com/pw/AL9nZEVSsC6cBjkjsmx_hxfZUkqTQRfczKabdI0Y_PV9q2ZlU7hBDwbk3ZRU7goaPyGaZRnPDfgxbhMXgnca4LE0UFiXRUhbi22DUgzqdQZSi3O_7BrvcDB3EwMiUWSJ2gP-iAI1ilNr4KejsmD7t9J_AvJa=w1888-h973-no?authuser=0)
 
