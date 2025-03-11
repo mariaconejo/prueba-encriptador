@@ -6,7 +6,7 @@ const textoEntrada = document.querySelector('textarea');
 const textoSalida = document.querySelector('#textoSalida');
 const copia = document.querySelector('#copiar');
 const aviso = document.querySelector('#textoCopiado');
-var prohibidos = /[A-ZáéíóúÁÉÍÓÚ]/;
+var prohibidos = /[A-ZáéíóúÁÉÍÓ]/;
 
 function encriptar(texto){
     return texto.replace(/e/g,'enter').replace(/i/g,'imes').replace(/a/g,'ai').replace(/o/g,'ober').replace(/u/g,'ufat');
